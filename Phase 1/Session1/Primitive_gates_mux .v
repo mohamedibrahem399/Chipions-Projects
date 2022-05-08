@@ -12,5 +12,5 @@ module amux_from_gates(c0,c1,c2,c3,A,B,Y);
 	and (y3,c3,A,B);
 
 	or(Y,y0,y1,y2,y3);
-
+	
  endmodule
