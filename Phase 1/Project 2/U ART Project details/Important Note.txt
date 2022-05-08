@@ -1,0 +1,2 @@
+Please note that the architecture is optional you may or may not follow it. 
+What is important to follow, is the module ports (input, output, width, and naming and case sensitivity of these ports).
